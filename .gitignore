@@ -1,28 +1,18 @@
-# Python / Django
+# Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.venv/
 venv/
-env/
-db.sqlite3
-.env
 
-# Node / React
+# Node
 node_modules/
 dist/
-dist-ssr/
-*.local
-.npm
-.eslintcache
 
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
+# Docker
+*.log
 
-# OS
+# SQLite DB
+db.sqlite3
+
+# OS / Editor
 .DS_Store
 Thumbs.db
